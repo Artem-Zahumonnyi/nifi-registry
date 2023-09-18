@@ -13,14 +13,14 @@
         "flowFileConcurrency" : "UNBOUNDED",
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
-        "identifier" : "49aeb0dd-542c-3f73-ac59-c517b5050d58",
+        "identifier" : "7ff53d74-694f-3f3e-ac3d-ad62849e4003",
         "inputPorts" : [ ],
         "labels" : [ ],
         "name" : "test",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 488.0,
-          "y" : 224.0
+          "x" : 504.0,
+          "y" : 40.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -35,7 +35,7 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "49aeb0dd-542c-3f73-ac59-c517b5050d58",
+          "groupIdentifier" : "7ff53d74-694f-3f3e-ac3d-ad62849e4003",
           "identifier" : "ccd848d5-afb5-3795-8782-c9743c0d7d6c",
           "name" : "GenerateFlowFile",
           "penaltyDuration" : "30 sec",
